@@ -1,2 +1,3 @@
 # test-github
-test github functions
+test github function
+check if CLA works
